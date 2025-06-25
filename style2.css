@@ -1,0 +1,45 @@
+.bod {
+   background-image: url(./Rectangle\ 18.png);
+   background-size: 100%;
+    
+}
+
+.m {
+   background-color: #FFFFFF;
+   width: 1180.2650146484375px;
+   height: 392px;
+   margin-left: 150px;
+
+}
+
+.inputs {
+   display: flex;
+   align-items: center;
+   justify-content: center;
+   gap: 40px;
+
+}
+
+.f {
+   margin-left: 510px;
+   margin-top: 30px;
+}
+
+.btn{
+   margin-left: 510px;
+   width: 169.49298095703125px;
+   height: 42.06394958496094px;
+   border: none;
+   border-radius: 9px;
+   background: linear-gradient(96.12deg, #D4145A -21.03%, #3D5BF5 103.56%);
+   color: #fff;
+   margin-top: 20px;
+}
+
+
+
+.m h1 {
+   text-align: center;
+   margin-top: 150px;
+   padding-top: 100px;
+}
